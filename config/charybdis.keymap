@@ -95,7 +95,7 @@
 
         BASE {
             bindings = <
-&kp F12          &kp Q  &kp W  &kp F           &kp P      &kp G        &kp L         &kp Y         &kp U      &kp MINUS   &kp J      &td_layers
+&kp F12          &kp Q  &kp W  &kp F           &kp P      &kp G        &kp L         &kp Y         &kp U      &kp MINUS   &kp J      &kp BACKSPACE
 &kp LCTRL        &kp A  &kp R  &kp S           &kp T      &kp D        &kp H         &kp N         &kp E      &kp I       &kp O      &mkp RCLK
 &kp C_AC_SEARCH  &kp Z  &kp X  &kp C           &kp V      &kp B        &kp N         &kp M         &kp COMMA  &kp PERIOD  &kp SLASH  &mkp LCLK
                                &lt 1 LEFT_WIN  &mkp LCLK  &kp LCTRL    &lt 7 RETURN  &lt 2 DELETE
